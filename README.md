@@ -6,7 +6,7 @@ The main objective of this project is create my personal brand across internet, 
  what i know to do, and introducing myself to the new persons that found my page.
 
 For a while, the objective is create a basic landing page practicing my actual frontend knowledge
-to show who i am and what can i help to create to others. 
+to show who i am and what can i help to create to others.
 
 ## Techonolgies used here
 
@@ -19,4 +19,4 @@ to show who i am and what can i help to create to others.
 - CSS3
 - Javascript
 
-### Thanks and welcome!
+### Thanks and welcome
