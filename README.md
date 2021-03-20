@@ -16,7 +16,7 @@ to show who i am and what can i help to create to others.
 - AWS Route 53
 - AWS Cloudformation
 - HTMl5
-- CSS3
+- TailwindCSS
 - Javascript
 
 ### Thanks and welcome
