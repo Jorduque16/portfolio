@@ -1,11 +1,8 @@
-name: Super-Linter
+name: Continuous-Integration
 
 # Run this workflow every time a new commit pushed to your repository
-on: 
-  push:
-    branches-ignore: [master]
-  pull_request:
-    branches: [master]
+on: [pull_request]
+
 jobs:
   # Set the job key. The key is displayed as the job name
   # when a job name is not provided
