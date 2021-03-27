@@ -1,3 +1,6 @@
+# Custom Paths
+./frontend/build/*
+
 # Gulp / Packages
 
 node_modules

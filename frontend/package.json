@@ -5,7 +5,7 @@
   "main": "postcss.config.js",
   "scripts": {
     "dev": "postcss ./src/styles/index.css -o ./src/styles/main.css --watch",
-    "build": "postcss ./src/styles/index.css -o ./build/src/styles/main.css"
+    "build": "postcss ./src/styles/index.css -o ./build/src/styles/main.css && cp ./index.html ./build/"
   },
   "repository": {
     "type": "git",

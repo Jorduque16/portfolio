@@ -20,11 +20,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-      - run: cd ./frontend/
-      - run: npm install --only=dev
-      - run: ls
-      - run: cp ./index.html ./build/
-      - run: npm run build     
+      - run: cd ./frontend/ && npm install --only=dev
+      - run: cd ./frontend/ && npm run build     
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
