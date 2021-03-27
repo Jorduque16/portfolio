@@ -7,9 +7,9 @@
 
 This repository contains all the resources and parts that i used to build my actual portfolio, due that i decided compact all the project parts on the next folder structure:
 
-- :gem: Frontend: Static web sited.
-- :rocket: Backend: API Endpoinds.
-- :evergreen_tree: Infrastructure: AWS resources.
+- :gem:  Frontend: Static web site.
+- :rocket:  Backend: API Endpoinds.
+- :evergreen_tree:  Infrastructure: AWS resources.
 
 ## Technologies used here
 
