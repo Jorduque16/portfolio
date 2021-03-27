@@ -22,7 +22,7 @@ jobs:
       - uses: actions/setup-node@v1
       - run: cd ./frontend/
       - run: npm install --only=dev
-      - run: cp index.html ./build/
+      - run: cp ./index.html ./build/
       - run: npm run build     
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
