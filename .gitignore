@@ -1,5 +1,5 @@
 # Custom Paths
-./frontend/build/*
+.frontend/build/*
 
 # Gulp / Packages
 
